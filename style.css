@@ -11,7 +11,7 @@ body{
 header{
     width: 100%;
     height: 70px;
-}
+}<link rel="stylesheet" href="/style.css">
 
 .logo{
     width: 100%;
@@ -43,7 +43,7 @@ main{
     border: none;
     background-color: #f4f4fc;
     cursor: pointer;
-    color: #1b4579;
+    color: #0A3871;
     font-size: 32px;
     font-weight: 400;
     font-family: 'Inter', sans-serif;
